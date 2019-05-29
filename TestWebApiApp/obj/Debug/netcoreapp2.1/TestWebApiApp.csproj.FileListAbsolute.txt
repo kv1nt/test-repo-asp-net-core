@@ -1,0 +1,14 @@
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\bin\Debug\netcoreapp2.1\TestWebApiApp.deps.json
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\bin\Debug\netcoreapp2.1\TestWebApiApp.runtimeconfig.json
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\bin\Debug\netcoreapp2.1\TestWebApiApp.runtimeconfig.dev.json
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\bin\Debug\netcoreapp2.1\TestWebApiApp.dll
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\bin\Debug\netcoreapp2.1\TestWebApiApp.pdb
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.csprojAssemblyReference.cache
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.RazorAssemblyInfo.cache
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.RazorAssemblyInfo.cs
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.AssemblyInfoInputs.cache
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.AssemblyInfo.cs
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.dll
+C:\Users\kv111\source\repos\TestWebApiApp\TestWebApiApp\obj\Debug\netcoreapp2.1\TestWebApiApp.pdb
